@@ -33,5 +33,3 @@ O objetivo é imprimir números de 1 até um número informado pelo usuário, se
    - Exibe o resultado na tela
 
 ---
-
-## 📂 Estrutura do Projeto
